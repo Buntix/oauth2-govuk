@@ -1,4 +1,4 @@
-# UK Government Services Provider for OAuth 2.0 Client
+# UK Government Service Provider for OAuth 2.0 Client
 [![Latest Version](https://img.shields.io/github/release/thephpleague/oauth2-instagram.svg?style=flat-square)](https://github.com/thephpleague/oauth2-instagram/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://img.shields.io/travis/thephpleague/oauth2-instagram/master.svg?style=flat-square)](https://travis-ci.org/thephpleague/oauth2-instagram)
